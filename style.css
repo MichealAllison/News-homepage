@@ -70,7 +70,7 @@ body {
   align-items: center;
 }
 
-.page__nav.menu{
+nav.menu{
   display: none;
 }
 

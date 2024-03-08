@@ -70,6 +70,10 @@ body {
   align-items: center;
 }
 
+.page__nav img{
+  display: none;
+}
+
 .page__nav .page__nav-menu {
   display: flex;
   gap: 2rem;
